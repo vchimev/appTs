@@ -1,5 +1,6 @@
 /* @import url("~/views/common.css"); */
 @import url("./common.css");
+/* @import url("./common"); */
 
 Label {
     background-color: lightblue;
